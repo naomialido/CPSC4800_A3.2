@@ -1,4 +1,4 @@
-# CPSC4800_A3.3 Titanic Dataset Analysis
+# CPSC4800_A3.2 Titanic Dataset Analysis
 ### Introduction
 ___
 This repository involves an EDA for the Titanic dataset from Kaggle. It explores three hypotheses to see if there is an association with the survival rate and other variables. The three hypotheses are based on the passenger class, gender, and age.
